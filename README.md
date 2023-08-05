@@ -1,4 +1,5 @@
-          ### Hey there, I am Nancy Nwankwo 👋
+ ### Hey there, I am Nancy Nwankwo 👋
+ <p style="text-align: center;">Hey there, I am Nancy Nwankwo 👋</p>
 ***
 I am passionate about storytelling and making written words easier to understand. 
 I enjoy brainstorming, research, and problem-solving as much as I enjoy writing. I am currently changing my life through tech.
