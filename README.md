@@ -1,4 +1,4 @@
- <h3 align="center"> Hello 👋, I am Nancy Nwankwo! </h3>
+ <h3 align="center"> Hello 👋 I am Nancy Nwankwo! </h3>
  
 ***
 
