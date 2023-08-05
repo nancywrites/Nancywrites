@@ -1,8 +1,8 @@
- ### Hello 👋, I am Nancy Nwankwo!
+ <h3 align="center"> Hello 👋, I am Nancy Nwankwo! </h3>
 ***
 I am passionate about storytelling and making written words easier to understand. 
 I enjoy brainstorming, research, and problem-solving as much as I enjoy writing. I am currently changing my life through tech.
-<p align="center"> i am happy</p>
+
 I am an avid reader with a deep love for travel, kindness, yoga, meditation, skincare, and self-care. You would find me curled up on a sofa reading a romance, mystery, suspense, or detective thriller novel on a rainy day. I am trying to master chess - Finally found out how the knight piece moves.😄
 
 I currently contribute to open-source projects like [Technical writing resources.](https://github.com/CynthiaPeter/Technical-Writing-Resources)
@@ -14,7 +14,6 @@ I currently contribute to open-source projects like [Technical writing resources
  - 📑 Read my articles @ [Hashnode](https://nancywrites.hashnode.dev/)
  - ⚡ Fun fact: I speak English, Igbo, Pidgin English, Spanish, and French. I plan to speak 13 languages fluently by 35
 
-### Take care ❤️
 <h3 align="center"> Take care ❤️ </h3>
    
 
