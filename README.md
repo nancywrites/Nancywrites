@@ -1,5 +1,7 @@
  <h3 align="center"> Hello 👋, I am Nancy Nwankwo! </h3>
+ 
 ***
+
 I am passionate about storytelling and making written words easier to understand. 
 I enjoy brainstorming, research, and problem-solving as much as I enjoy writing. I am currently changing my life through tech.
 
