@@ -17,7 +17,7 @@ I currently contribute to open-source projects like [Technical writing resources
  - ⚡ Fun fact: I speak English, Igbo, Pidgin English, Spanish, and French. I plan to speak 13 languages fluently by 35
 
                    ### Take care ❤️
-   <h1 align="center">Material Bread</h1>
+   
 
 <!--
 **warriorbadass/warriorbadass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
