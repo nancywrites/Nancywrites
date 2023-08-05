@@ -1,10 +1,7 @@
  ### Hello 👋, I am Nancy Nwankwo!
- 
 ***
 I am passionate about storytelling and making written words easier to understand. 
 I enjoy brainstorming, research, and problem-solving as much as I enjoy writing. I am currently changing my life through tech.
-
-<p align="center"> I am happy</p>
 
 I am an avid reader with a deep love for travel, kindness, yoga, meditation, skincare, and self-care. You would find me curled up on a sofa reading a romance, mystery, suspense, or detective thriller novel on a rainy day. I am trying to master chess - Finally found out how the knight piece moves.😄
 
