@@ -15,6 +15,7 @@ I currently contribute to open-source projects like [Technical writing resources
  - ⚡ Fun fact: I speak English, Igbo, Pidgin English, Spanish, and French. I plan to speak 13 languages fluently by 35
 
 ### Take care ❤️
+<h3 align="center"> Take care ❤️ </h3>
    
 
 <!--
