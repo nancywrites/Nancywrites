@@ -1,5 +1,5 @@
  <h3 align="center"> Hello 👋 I am Nancy Nwankwo! </h3>
- 
+  My blog | Portfolio | LinkedIn | Twitter | Email
 ***
 
 I am passionate about storytelling and making written words easier to understand. 
