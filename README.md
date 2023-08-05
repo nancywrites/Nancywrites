@@ -1,25 +1,6 @@
  <h3 align="center"> Hello 👋 I am Nancy Nwankwo! </h3>
  
-<p align="center"> [My blog](https://nancywrites.hashnode.dev) | [Portfolio](https://nancynwankwo.journoportfolio.com/) |[LinkedIn](www.linkedin.com/in/nancy-nwankwo) | [Twitter](https://twitter.com/iwriteng) | [Email](mailto:nancydesire5@gmail.com)
-
- <p align="center"> [My blog](www.glowingright.com) portfolio LinkedIn Twitter Email
-</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[My blog](https://nancywrites.hashnode.dev) | [Portfolio](https://nancynwankwo.journoportfolio.com/) |[LinkedIn](www.linkedin.com/in/nancy-nwankwo) | [Twitter](https://twitter.com/iwriteng) | [Email](mailto:nancydesire5@gmail.com)
 ***
 
 I am passionate about storytelling and making written words easier to understand. 
@@ -32,7 +13,7 @@ I currently contribute to open-source projects like [Technical writing resources
  - 📚 My current interests: APIs, AI, Opensource, and Documentation.
  - 💬 Ask me about Storytelling, Technical Writing, Skincare, Self-care, Novel writing and Books.
  - 🌱 I’m currently learning: APIs and AI.
- - 📫 How to reach me: Reach me on [Twitter](https://twitter.com/iwriteng),   [LinkedIn](www.linkedin.com/in/nancy-nwankwo)       or  [Email](mailto:nancydesire5@gmail.com)
+ - 📫 How to reach me: Reach me on [Twitter](https://twitter.com/iwriteng),   [LinkedIn](www.linkedin.com/in/nancy-nwankwo)   or  [Email](mailto:nancydesire5@gmail.com)
  - 📑 Read my articles @ [Hashnode](https://nancywrites.hashnode.dev/)
  - ⚡ Fun fact: I speak English, Igbo, Pidgin English, Spanish, and French. I plan to speak 13 languages fluently by 35
 
