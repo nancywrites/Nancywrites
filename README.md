@@ -6,10 +6,7 @@
  [My blog](https://nancywrites.hashnode.dev) | [Portfolio](https://nancynwankwo.journoportfolio.com/) |[ LinkedIn](www.linkedin.com/in/nancy-nwankwo) | [Twitter](https://twitter.com/iwriteng) |
 [Email](mailto:nancydesire5@gmail.com)
 
-<p align="center">
-
-
-[Email](mailto:nancydesire5@gmail.com)
+<p align="center"> hello husband!
 </p>
 
 ***
