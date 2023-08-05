@@ -3,11 +3,9 @@
  
 <p align="center"> 
 
- [My blog](https://nancywrites.hashnode.dev) |
-[Portfolio](https://nancynwankwo.journoportfolio.com/) |
-[LinkedIn](www.linkedin.com/in/nancy-nwankwo) |
-[Twitter](https://twitter.com/iwriteng) |
-[Email](mailto:nancydesire5@gmail.com) </p>
+ [My blog](https://nancywrites.hashnode.dev) | [Portfolio](https://nancynwankwo.journoportfolio.com/) |[LinkedIn](www.linkedin.com/in/nancy-nwankwo) | [Twitter](https://twitter.com/iwriteng) |
+[Email](mailto:nancydesire5@gmail.com)
+</p>
 
 ***
 
