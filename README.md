@@ -1,7 +1,9 @@
  <h3 align="center"> Hello 👋 I am Nancy Nwankwo! </h3>
  
  
-<p align="center"> [My blog](https://nancywrites.hashnode.dev) |
+<p align="center"> 
+
+ [My blog](https://nancywrites.hashnode.dev) |
 [Portfolio](https://nancynwankwo.journoportfolio.com/) |
 [LinkedIn](www.linkedin.com/in/nancy-nwankwo) |
 [Twitter](https://twitter.com/iwriteng) |
