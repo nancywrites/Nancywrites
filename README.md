@@ -1,10 +1,9 @@
- ### Hey there, I am Nancy Nwankwo 👋
+ ### Hello 👋, I am Nancy Nwankwo!
  
 ***
-
-<h1 style="text-align: center;">Hey there, I am Nancy Nwankwo 👋</h1>
 I am passionate about storytelling and making written words easier to understand. 
 I enjoy brainstorming, research, and problem-solving as much as I enjoy writing. I am currently changing my life through tech.
+
 
 I am an avid reader with a deep love for travel, kindness, yoga, meditation, skincare, and self-care. You would find me curled up on a sofa reading a romance, mystery, suspense, or detective thriller novel on a rainy day. I am trying to master chess - Finally found out how the knight piece moves.😄
 
@@ -18,6 +17,7 @@ I currently contribute to open-source projects like [Technical writing resources
  - ⚡ Fun fact: I speak English, Igbo, Pidgin English, Spanish, and French. I plan to speak 13 languages fluently by 35
 
                    ### Take care ❤️
+   <h1 align="center">Material Bread</h1>
 
 <!--
 **warriorbadass/warriorbadass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
