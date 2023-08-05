@@ -1,4 +1,4 @@
-### Hey there, I am Nancy Nwankwo 👋
+          ### Hey there, I am Nancy Nwankwo 👋
 ***
 I am passionate about storytelling and making written words easier to understand. 
 I enjoy brainstorming, research, and problem-solving as much as I enjoy writing. I am currently changing my life through tech.
@@ -14,7 +14,7 @@ I currently contribute to open-source projects like [Technical writing resources
  - 📑 Read my articles @ [Hashnode](https://nancywrites.hashnode.dev/)
  - ⚡ Fun fact: I speak English, Igbo, Pidgin English, Spanish, and French. I plan to speak 13 languages fluently by 35
 
-###                       Take care ❤️
+                   ### Take care ❤️
 
 <!--
 **warriorbadass/warriorbadass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
