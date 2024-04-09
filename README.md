@@ -10,7 +10,7 @@ I am an avid reader with a deep love for travel, kindness, yoga, meditation, ski
 
 I currently contribute to open-source projects like [Technical writing resources.](https://github.com/CynthiaPeter/Technical-Writing-Resources)
 
- - 📚 My current interests: APIs, AI, Opensource, and Documentation.
+ - 📚 My current interests: APIs, AI, Opensource, Web3 and Documentation.
  - 💬 Ask me about Storytelling, Technical Writing, Skincare, Self-care, Novel writing and Books.
  - 🌱 I’m currently learning: APIs and AI.
  - 📫 How to reach me: Reach me on [Twitter](https://twitter.com/iwriteng),   [LinkedIn](www.linkedin.com/in/nancy-nwankwo)   or  [Email](mailto:nancydesire5@gmail.com)
