@@ -1,6 +1,6 @@
  <h3 align="center"> Hello 👋 I am Nancy Nwankwo! </h3>
  
-[My blog](https://nancywrites.hashnode.dev) | [Portfolio](https://nancynwankwo.journoportfolio.com/) | [LinkedIn](www.linkedin.com/in/nancy-nwankwo) | [Twitter](https://twitter.com/iwriteng) | [Email](mailto:nancydesire5@gmail.com)
+[My blog](https://nancywrites.hashnode.dev) | [Portfolio](https://nancywrites.hashnode.dev/portfolio) | [LinkedIn](www.linkedin.com/in/nancy-nwankwo) | [Twitter](https://twitter.com/iwriteng) | [Email](mailto:nancydesire5@gmail.com)
 ***
 
 I am passionate about storytelling and making written words easier to understand. 
@@ -16,6 +16,8 @@ I currently contribute to open-source projects like [Technical writing resources
  - 📫 How to reach me: Reach me on [Twitter](https://twitter.com/iwriteng),   [LinkedIn](www.linkedin.com/in/nancy-nwankwo)   or  [Email](mailto:nancydesire5@gmail.com)
  - 📑 Read my articles @ [Hashnode](https://nancywrites.hashnode.dev/)
  - ⚡ Fun fact: I speak English, Igbo, Pidgin English, and French. I plan to speak 12 languages fluently by 35
+
+ PS: Currently learning Italian. May I be fluent soonest. Wish me luck. ✨
 
 <h3 align="center"> Take care ❤️ </h3>
    
