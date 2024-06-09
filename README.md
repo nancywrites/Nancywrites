@@ -1,6 +1,14 @@
  <h3 align="center"> Hello 👋 I am Nancy Nwankwo! </h3>
  
-[My blog](https://nancywrites.hashnode.dev) | [Portfolio](https://nancywrites.hashnode.dev/portfolio) | [LinkedIn](www.linkedin.com/in/nancy-nwankwo) | [Twitter](https://twitter.com/iwriteng) | [Email](mailto:nancydesire5@gmail.com)
+
+<p align="center">
+    <a href="https://nancywrites.hashnode.dev">My blog</a> |
+    <a href="https://nancywrites.hashnode.dev/portfolio">Portfolio</a> |
+    <a href="https://www.linkedin.com/in/nancy-nwankwo">LinkedIn</a> |
+    <a href="https://twitter.com/iwriteng">Twitter</a> |
+    <a href="mailto:nancydesire5@gmail.com">Email</a>
+</p>
+
 ***
 
 I am passionate about storytelling and making written words easier to understand. 
