@@ -1,4 +1,4 @@
- <h3 align="center"> Welcome to my little corner of the world!! I am Nancy Nwankwo! </h3>
+ <h3 align="center"> Welcome to my little corner of the world! I am Nancy Nwankwo! </h3>
  
 
 <p align="center">
