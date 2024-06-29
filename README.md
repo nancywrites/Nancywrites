@@ -25,8 +25,6 @@ I currently contribute to open-source projects like [Technical writing resources
  - 📑 Read my articles @ [Hashnode](https://nancywrites.hashnode.dev/)
  - ⚡ Fun fact: I speak English, Igbo, Pidgin English, and French. I plan to speak 12 languages fluently by 35
 
- PS: Currently learning Italian. May I be fluent soonest. Wish me luck. ✨
-
 <h3 align="center"> Take care ❤️ </h3>
    
 
