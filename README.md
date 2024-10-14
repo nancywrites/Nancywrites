@@ -16,7 +16,7 @@ I enjoy brainstorming, and research as much as I enjoy writing. I am currently c
 
 I am an avid reader with a deep love for travel, kindness, yoga, meditation, skincare, and self-care. You would find me curled up on a sofa reading a romance, mystery, suspense, or detective thriller novel on a rainy day. I am trying to master chess - Finally found out how the knight piece moves.😄
 
-I currently contribute to [Technical writing resources](https://github.com/CynthiaPeter/Technical-Writing-Resources) , [Zamry](https://github.com/bitnob/zamry-documentation) & [Brails](https://github.com/bitnob/brails-documentation)
+I currently contribute to [Technical writing resources](https://github.com/CynthiaPeter/Technical-Writing-Resources) , [Zamry](https://github.com/bitnob/zamry-documentation) , [Brails](https://github.com/bitnob/brails-documentation) & [Bitnob](https://github.com/bitnob/nobblet-documentation)
 
  - 📚 My current interests: APIs, AI, Opensource, Web3 and Documentation.
  - 💬 Ask me about Storytelling, Technical Writing, Skincare, Self-care, Novel writing and Books.
