@@ -23,7 +23,7 @@ I currently contribute to [Technical writing resources](https://github.com/Cynth
  - 🌱 I’m currently learning: APIs and AI.
  - 📫 How to reach me: Reach me on [Twitter](https://twitter.com/iwriteng),   [LinkedIn](www.linkedin.com/in/nancy-nwankwo)   or  [Email](mailto:nancydesire5@gmail.com)
  - 📑 Read my articles @ [Hashnode](https://nancywrites.hashnode.dev/)
- - ⚡ Fun fact: I speak English, Igbo, Pidgin English, and French. I plan to speak 10 languages fluently by 35
+ - ⚡ Fun fact: I speak English, Igbo, Pidgin English, French and Spanish. I plan to speak 8 languages fluently by 35
 
 <h3 align="center"> Take care ❤️ </h3>
    
