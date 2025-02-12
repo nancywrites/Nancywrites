@@ -5,7 +5,6 @@
     <a href="https://nancywrites.hashnode.dev">My blog</a> |
     <a href="https://nancywrites.hashnode.dev/portfolio">Portfolio</a> |
     <a href="https://www.linkedin.com/in/nancy-nwankwo">LinkedIn</a> |
-    <a href="https://twitter.com/iwriteng">Twitter</a> |
     <a href="mailto:nancydesire5@gmail.com">Email</a>
 </p>
 
