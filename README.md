@@ -21,7 +21,7 @@ Contributed to: [Zamry](https://github.com/bitnob/zamry-documentation) , [Brails
 
  - 📚 My current interests: APIs, AI, Opensource, Web3 and Documentation.
  - 💬 Ask me about Storytelling, Technical Writing, Skincare, Self-care, Novel writing and Books.
- - 🌱 I’m currently learning: APIs and AI.
+ - 🌱 I am currently learning: APIs and AI.
  - 📫 How to reach me: Reach me on [Twitter](https://twitter.com/iwriteng),   [LinkedIn](www.linkedin.com/in/nancy-nwankwo)   or  [Email](mailto:nancydesire5@gmail.com)
  - 📑 Read my articles @ [Hashnode](https://nancywrites.hashnode.dev/)
  
