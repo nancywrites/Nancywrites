@@ -23,7 +23,7 @@ Contributed to: [Zamry](https://github.com/bitnob/zamry-documentation) , [Brails
  - 💬 Ask me about Storytelling, Technical Writing, Skincare, Self-care, Novel writing and Books.
  - 🌱 I am currently learning: APIs and AI.
  - 📫 How to reach me: Reach me on [LinkedIn](www.linkedin.com/in/nancy-nwankwo)   or  [Email](mailto:nancydesire5@gmail.com)
- - 📑 Read my articles @ [Hashnode](https://nancywrites.hashnode.dev/)
+ - 📑 Read my articles @ [Hashnode](https://nancywrites.hashnode.dev/) & @ [Medium](https://medium.com/@nancymuses)]
  
 
 <h3 align="center"> Take care ❤️ </h3>
