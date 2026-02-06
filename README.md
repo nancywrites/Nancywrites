@@ -15,7 +15,7 @@ I enjoy brainstorming, and research as much as I enjoy writing. I am currently c
 
 I am an avid reader with a deep love for travel, kindness, skincare, and self-care. You would find me curled up on a sofa reading a romance, mystery, suspense, or detective thriller novel on a rainy day. I am trying to master chess - Finally found out how the knight piece moves.😄
 
-I currently contribute to [Api Learning Library](https://github.com/nancywrites/api-learning-library/), [Technical writing resources](https://github.com/CynthiaPeter/Technical-Writing-Resources) [Augur](https://github.com/chaoss/augur), & [Fedora like I am 7](https://nancywrites.hashnode.dev/fedora-like-i-am-7-simplifying-fedora-for-all-ages) 
+I currently contribute to [Api Learning Library](https://github.com/nancywrites/api-learning-library/), [Technical writing resources](https://github.com/CynthiaPeter/Technical-Writing-Resources), [Augur](https://github.com/chaoss/augur), & [Fedora like I am 7](https://nancywrites.hashnode.dev/fedora-like-i-am-7-simplifying-fedora-for-all-ages) 
 
 Contributed to: [Zamry](https://github.com/bitnob/zamry-documentation) , [Brails](https://github.com/bitnob/brails-documentation), & [Bitnob](https://github.com/bitnob/nobblet-documentation)
 
