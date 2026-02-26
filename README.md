@@ -5,7 +5,7 @@
     <a href="https://nancywrites.hashnode.dev">My blog</a> |
     <a href="https://nancywrites.hashnode.dev/nancy-nwankwos-portfolio">Portfolio</a> |
     <a href="https://www.linkedin.com/in/nancy-nwankwo">LinkedIn</a> |
-    <a href="mailto:nancydesire5@gmail.com">Email</a>
+    <a href="mailto:nancynwankwo3@gmail.com">Email</a>
 </p>
 
 ***
@@ -22,7 +22,7 @@ Contributed to: [Zamry](https://github.com/bitnob/zamry-documentation) , [Brails
  - 📚 My current interests: APIs.
  - 💬 Ask me about Storytelling, Technical Writing, Skincare, Self-care, Novel writing and Books.
  - 🌱 I am currently learning: APIs.
- - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/nancy-nwankwo)   or  [Email](mailto:nancydesire5@gmail.com)
+ - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/nancy-nwankwo)   or  [Email](mailto:nancynwankwo3@gmail.com)
  - 📑 Read my articles: [Hashnode](https://nancywrites.hashnode.dev/) & [Medium](https://medium.com/@nancymuses)
  
 
