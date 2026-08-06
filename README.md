@@ -3,8 +3,8 @@
 
 <p align="center">
     <a href="https://nancywrites.hashnode.dev">My blog</a> |
-    <a href="https://nancywrites.hashnode.dev/nancy-nwankwos-portfolio">Portfolio</a> |
-    <a href="https://www.linkedin.com/in/nancy-nwankwo">LinkedIn</a> |
+    <a href="https://nancywrites.hashnode.dev/nancy-nwankwos-portfolio">Portfolio</a>
+     |
     <a href="mailto:nancynwankwo3@gmail.com">Email</a>
 </p>
 
